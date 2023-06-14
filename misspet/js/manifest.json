@@ -1,0 +1,31 @@
+{
+    "theme_color": "#007AFF",
+    "background_color": "red",
+    "icons": [
+  {
+    "src": "../img/headshot.png",
+    "sizes": "48x48",
+    "type": "image/webp"
+  },
+  {
+    "src": "../img/headshot.png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "../img/headshot.png",
+    "sizes": "72x72 96x96 128x128 256x256"
+  },
+  {
+    "src": "../img/headshot.png",
+    "sizes": "72x72"
+  }
+],
+"name": "pawprint",
+"short_name": "pawpri",
+"lang": "zh-Hant-TW",
+"description": "這是一個好用又免費的應用程式，主要可以拿來拯救宇宙。",
+"dir": "ltr",
+"display": "fullscreen",
+"orientation": "landscape",
+"prefer_related_applications": false
+}

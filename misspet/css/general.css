@@ -1,0 +1,33 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#map {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.w-f{
+    width: 100%;
+}
+.fc{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.ct{
+    align-items: center;
+    justify-items: center;
+}
+.sb{
+    justify-content: space-between;
+}
+.pd{
+    padding-left: 16px;
+    padding-right: 16px;
+}
